@@ -1,3 +1,5 @@
+name: Pipeline1
+description: This is the first pipeline
 on:
   schedule:
     - cron: '1 0 * * *'
