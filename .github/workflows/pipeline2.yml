@@ -1,5 +1,4 @@
 name: Pipeline2
-description: This is the second pipeline
 on:
   schedule:
     - cron: '2 0 * * *'
